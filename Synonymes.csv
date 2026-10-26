@@ -6,7 +6,7 @@ applicant,le,candidat,,le,postulant,,le,demandeur
 bankruptcy,la,faillite,,la,déconfiture,,la,banqueroute
 chaos,le,chaos,,le,désarroi,,le,remue-ménage,,le,capharnaüm
 collection,la,collection,,le,recueil
-crowd,la,foule,,la,multitude,,la,cohorte
+crowd,la,foule,,la,multitude,,la,cohorte,,la,horde
 criticism,la,critique,,le,grief,,le,reproche,,le,opprobre
 damage,les,dégâts,,les,dommages
 deception,la,déception,,le,désenchantement,,la,désillusion
@@ -14,7 +14,7 @@ decline,le,déclin,,le,crépuscule,,le,périclissement
 decrease,la,diminution,,la,baisse,,le,recul
 employe,le / la,employé / employée,,le,salarié
 flexibility,la,flexibilité,,la,souplesse
-food,la,nourriture,,les,vivres,,les,denrées
+food,la,nourriture,,la,alimentation,,les,vivres,,les,denrées
 hesitation,la,hésitation,,la,irrésolution,,la,tergiversation
 improvement,la,amélioration,,la,optimisation,,le,perfectionnement
 judgment,le,jugement,,le,verdict,,la,sentence
@@ -23,6 +23,7 @@ obstacle,le,obstacle,,le,frein,,la,entrave,,le,goulot d'étranglement
 origin,la,origine,,la,genèse,,la,provenance
 parking,le,parking,,le,stationnement
 prediction,la,prédiction,,le,pronostic,,les,prévisions
+pride,la,fierté,,le,orgueil
 prodigality,la,prodigalité,,le,gaspillage,,la,dilapidation
 reduction,la,réduction,,le,rabais,,la,remise,,la,démarque,,le,geste commercial
 reprimand,la,réprimande,,le,blâme,,la,semonce
@@ -38,3 +39,35 @@ wealth,la,richesse,,la,fortune,,la,opulence
 work,le,travail,,le,emploi,,le,boulot
 worry,la,inquiétude,,le,tourment,,la,anxiété
 
+block,bloquer,,obstruer
+dismiss,congédier,,licencier
+eat,manger,,bouffer
+laugh,rire,,rigoler
+open,ouvrir,,dévoiler
+work,travailler,,bosser
+
+clean,propre,net / nette
+bold,audacieux / audacieuse,hardi / hardie
+boring,ennuyeux / ennuyeuse,fastidieux / fastidieuse
+brilliant,brillant / brillante,éclatant / éclatante
+calm,calme,paisible
+cold,froid / froide,glacial / glaciale
+dark,sombre,obscur / obscure
+different,différent / différente,divers / diverse,varié / variée
+eloquent,éloquent / éloquente,expressif / expressive
+expensive,cher / chère,coûteux / coûteuse
+far,loin,éloigné / éloignée
+fast,rapide,véloce
+generous,généreux / généreuse,bienveillant / bienveillante
+happy,hereux / hereuse,content / contente,joyeux / joyeuse
+hot,chaud / chaude,brûlant / brûlante
+light,léger / légère,faible
+masterful,magistral / magistrale,remarquable
+old,vieux / vieille,ancien / ancienne
+perceptive,perspicace,saisissant / saisissante
+persevering,persévérant / persévérante,tenace
+small,petit / petite,minuscule
+stupid,stupide,bête
+strong,fort / forte,puissant / puissante
+tough,dur / dure,rigide
+wide,large,vaste

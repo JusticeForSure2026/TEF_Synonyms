@@ -2,7 +2,7 @@
 
 
 > # 🔥 Currently collected: 
-> ## 📊 [ 39 Nouns ] • [ 0 Verbs ] • [ 0 Adjectives ]
+> ## 📊 [ 39 Nouns ] • [ 6 Verbs ] • [ 25 Adjectives ]
 > Contribute to expand the list by sharing the tricky traps 🪤 you encountered.
 
 This project is a permanent global list to collect all the sneaky synonym traps and confusing logic used by TEF examiners. 
