@@ -22,6 +22,15 @@ When you finish your TEF exam and encounter an unknown, painful word or a ridicu
 Follow this simple image guide to report a new synonym trap:
 
 1. **Step 1:** Click on the **Issues** tab.
+<br><br>
+![Tutorial 1](tutorial_images/tutorial1.png)
+
 2. **Step 2:** Click the green **New Issue** button on the right side.
+<br><br>
+![Tutorial 2](tutorial_images/tutorial2.png)
+
 3. **Step 3:** Type the painful words or ridiculous logic traps you encountered during your TEF exam, then click **Create**.
-3. **Step 4:** All done.
+<br><br>
+![Tutorial 3](tutorial_images/tutorial3.png)
+
+4. **Step 4:** All done.
