@@ -1,24 +1,37 @@
-﻿abandonment,le,abandon,,la,délaissement,,la,abdication
+﻿abandonment,le,abandon,,le,délaissement,,la,abdication
 abolition,la,abolition,,la,abrogation,,la,suppression,,la,révocation
 agreement,le,accord,,le,consensus,,la,entente
 anger,la,colère,,le,courroux,,la,exaspération
 applicant,le,candidat,,le,postulant,,le,demandeur
+avantage,le,avantage,,le,bénéfice
 bankruptcy,la,faillite,,la,déconfiture,,la,banqueroute
+beginning,le,début,,le,commencement
+breath,la,haleine,,le,souffle
+disadvantage,le,inconvénient,,la,faille,,la,lacune,,le,revers
+distribution,la,distribution,,la,répartition
 chaos,le,chaos,,le,désarroi,,le,remue-ménage,,le,capharnaüm
 collection,la,collection,,le,recueil
+color,la,couleur,,la,teinte
 crowd,la,foule,,la,multitude,,la,cohorte,,la,horde
 criticism,la,critique,,le,grief,,le,reproche,,le,opprobre
 damage,les,dégâts,,les,dommages
-deception,la,déception,,le,désenchantement,,la,désillusion
 decline,le,déclin,,le,crépuscule,,le,périclissement
 decrease,la,diminution,,la,baisse,,le,recul
-employe,le / la,employé / employée,,le,salarié
+disappointment,la,déception,,le,désenchantement,,la,désillusion
+dream,le,rêve,,le,songe
+employee,le / la,employé / employée,,le,salarié
 flexibility,la,flexibilité,,la,souplesse
+fog,le,brouillard,,la,brume
 food,la,nourriture,,la,alimentation,,les,vivres,,les,denrées
+goal,le,but,,la,intention
+grief,le,chagrin,,la,douleur
+growth,la,croissance,,le,essor
 hesitation,la,hésitation,,la,irrésolution,,la,tergiversation
 improvement,la,amélioration,,la,optimisation,,le,perfectionnement
 judgment,le,jugement,,le,verdict,,la,sentence
 luxury,le,luxe,,la,somptuosité,,la,magnificence
+mistake,la,erreur,,la,faute
+occupation,la,occupation,,la,profession,,le,métier
 obstacle,le,obstacle,,le,frein,,la,entrave,,le,goulot d'étranglement
 origin,la,origine,,la,genèse,,la,provenance
 parking,le,parking,,le,stationnement
@@ -31,43 +44,114 @@ rivalry,la,rivalité,,la,compétition,,la,concurrence
 salary,le,salaire,,la,rémunération,,les,émoluments
 scandal,le,scandale,,le,tollé,,le,remous
 scarcity,la,pénurie,,le,manque,,la,disette
-skill,la,compétence,,la,dextérité,,la,maestria
+scorn,le,mépris,,le,dédain
+sign,la,affiche,,la,enseigne
+skill,la,compétence,,la,dextérité,,la,maestria,,la,habileté,,la,adresse
+slope,la,pente,,le,raidillon
 stinginess,la,avarice,,la,parsimonie,,la,lésine,,la,ladrerie
+storm,la,tempête,,le,orage
 threat,la,menace,,le,péril,,le,danger
-trip,le,voyage,,le,périple
+trip,le,voyage,,la,excursion,,le,périple
+wave,la,vague,,la,onde
 wealth,la,richesse,,la,fortune,,la,opulence
+wish,le,souhait,,le,voeu
 work,le,travail,,le,emploi,,le,boulot
-worry,la,inquiétude,,le,tourment,,la,anxiété
+worry,la,inquiétude,,le,tourment,,la,anxiété,,la,angoisse
 
+appear,apparaître,,paraître,,survenir,,surgir,,figurer
+assert,affirmer,,prétendre
 block,bloquer,,obstruer
+break,casser,,briser
+bring,apporter,,amener
+cause,causer,,occasionner
+debunk,discréditer,,déculotter
+delight,ravir,,enchanter
 dismiss,congédier,,licencier
 eat,manger,,bouffer
+fear,craindre,,redouter
+finish,finir,,achever
+forbid,interdire,,défendre
+increase,augmenter,,accroître,,renforcer
 laugh,rire,,rigoler
-open,ouvrir,,dévoiler
+lead,diriger,,mener
+live,vivre,,habiter,,résider
+mix,mélanger,,mêler
+move,bouger,,remuer
+open,ouvrir,,dévoiler,,entrouvrir,,déballer
+obtain,obtenir,,acquérir
+reduce,réduire,,diminuer
+resound,retentir,,résonner
+see,voir,,apercevoir
+show,montrer,,exhiber
+soothe,apaiser,,calmer,,soulager
+spread,répandre,,propager
+start,commencer,,démarrer,,entamer
+struggle,lutter,,peiner,,se débattre,,se démener
+throw,lancer,,jeter
+tremble,trembler,,frémir
+try,essayer,,tenter,,tâcher
 work,travailler,,bosser
 
-clean,propre,net / nette
-bold,audacieux / audacieuse,hardi / hardie
-boring,ennuyeux / ennuyeuse,fastidieux / fastidieuse
-brilliant,brillant / brillante,éclatant / éclatante
-calm,calme,paisible
-cold,froid / froide,glacial / glaciale
-dark,sombre,obscur / obscure
-different,différent / différente,divers / diverse,varié / variée
-eloquent,éloquent / éloquente,expressif / expressive
-expensive,cher / chère,coûteux / coûteuse
-far,loin,éloigné / éloignée
-fast,rapide,véloce
-generous,généreux / généreuse,bienveillant / bienveillante
-happy,hereux / hereuse,content / contente,joyeux / joyeuse
-hot,chaud / chaude,brûlant / brûlante
-light,léger / légère,faible
-masterful,magistral / magistrale,remarquable
-old,vieux / vieille,ancien / ancienne
-perceptive,perspicace,saisissant / saisissante
-persevering,persévérant / persévérante,tenace
-small,petit / petite,minuscule
-stupid,stupide,bête
-strong,fort / forte,puissant / puissante
-tough,dur / dure,rigide
-wide,large,vaste
+annoying,ennuyeux / ennuyeuse,,embêtant / embêtante
+atrocious,atroce,,exécrable
+bad,mauvais / mauvaise,,médiocre,,désastreux / désastreuse,,lamentable,,inférieur / inférieure
+clean,propre,,net / nette
+competent,compétent / compétente,,habile
+bold,audacieux / audacieuse,,hardi / hardie
+boring,ennuyeux / ennuyeuse,,fastidieux / fastidieuse
+brilliant,brillant / brillante,,éclatant / éclatante
+calm,calme,,paisible
+cold,froid / froide,,glacial / glaciale
+complex,complexe,,compliqué / compliquée,,élaboré / élaborée
+dark,sombre,,obscur / obscure
+different,différent / différente,,divers / diverse,,varié / variée
+dirty,sale,,sordide,,crasseux / crasseuse
+disgusting,dégoûtant / dégoûtante,,odieux / odieuse
+elegant,élégant / élégante,,raffiné / raffinée
+eloquent,éloquent / éloquente,,expressif / expressive
+ephemeral,éphémère,,fugace,,temporaire
+essential,essentiel / essentielle,,crucial / cruciale,,indispensable
+expensive,cher / chère,,coûteux / coûteuse
+fantastic,fantastique,,incroyable,,merveilleux / merveilleuse,,étonnant / étonnante,,extraordinaire,,rocambolesque
+far,loin,,éloigné / éloignée,,lointain / lointaine
+fast,rapide,,véloce
+frequent,fréquent / fréquente,,courant / courante,,régulier / régulière
+frightful,affreux / affreuse,,épouvantable
+generous,généreux / généreuse,,bienveillant / bienveillante
+harmful,nocif / nocive,,nuisible,,néfaste,,préjudiciable
+happy,heureux / heureuse,,content / contente,,ravi / ravie,,joyeux / joyeuse,,enchanté / enchantée,,comblé / comblée
+heavy,lourd / lourde,,pesant / pesante
+hot,chaud / chaude,,brûlant / brûlante,,fébrile,,thermique
+important,important / importante,,crucial / cruciale,,primordial / primordiale,,essentiel / essentielle,,capital / capitale
+inevitable,inévitable,,incontournable
+innovative,innovant / innovante,,novateur / novatrice,,créatif / créative
+interesting,intéressant / intéressante,,fascinant / fascinante,,captivant / captivante,,passionnant / passionnante
+large,grand / grande,,immense,,colossal / colossale
+light,léger / légère,,faible
+many,nombreux / nombreuse,,maint / mainte
+masterful,magistral / magistrale,,remarquable
+old,vieux / vieille,,ancien / ancienne
+perceptive,perspicace,,saisissant / saisissante,,clairvoyant / clairvoyante
+persevering,persévérant / persévérante,,tenace
+reasonable,raisonnable,,modéré / modérée,,mesuré / mesurée
+relevant,pertinent / pertinente,,approprié / appropriée,,judicieux / judicieuse
+restricting,restreindre,,contraignant / contraignante
+ridiculous,ridicule,,abracadabrant / abracadabrante
+similar,similaire,,pareil / pareille,,semblable
+small,petit / petite,,minuscule,,infime
+soft,doux / douce,,moelleux / moelleuse
+sticky,gluant / gluante,,collant / collante,,gommeux / gommeuse,,visqueux / visqueuse
+stubborn,têtu / têtue,,obstiné / obstinée
+stupid,stupide,,bête
+strong,fort / forte,,puissant / puissante
+sustainable,durable,,pérenne,,stable
+substantial,substantiel / substantielle,,conséquent / conséquente
+timeless,intemporel / intemporelle,,indémodable,,universel / universelle
+tired,fatigué / fatiguée,,épuisé / épuisée,,exténué / exténuée
+tough,dur / dure,,rigide
+transparent,transparent / transparente,,diaphane
+unexpected,inattendu / inattendue,,imprévu / imprévue
+urgent,urgent / urgente,,pressant / pressante,,impératif / imperative,,imminent / imminente
+useless,inutile,,inefficace,,futile,,dérisoire
+visible,visible,,apparent / apparente,,manifeste
+wide,large,,vaste
