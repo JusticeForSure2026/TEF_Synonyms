@@ -1,6 +1,6 @@
 # TEF (Test d'évaluation de français) Synonyms List
 
-<h2 style="border-bottom: none;">🚨 Have you suffered from tricky, painful synonyms during your exam?</h2>
+### 🚨 Have you suffered from tricky, painful synonyms during your exam?
 
 ### 💡 "Synonym": Different words = Same idea
 
@@ -12,9 +12,7 @@
 | **pénurie** | ➔ **manque** / **disette** | lack |
 | **abroger** | ➔ **abolir** / **supprimer** | abolish / cancel |
 
-<h3 style="font-weight: bold;">
-This global list aims to collect as many synonyms as possible to help you memorize them effectively.
-</h3>
+### This global list aims to collect as many synonyms as possible to help you memorize them effectively.
 
 <br>
 
