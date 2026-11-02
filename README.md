@@ -2,24 +2,38 @@
 
 <h2 style="border-bottom: none;">🚨 Have you suffered from tricky, painful synonyms during your exam?</h2>
 
+<div style="font-size: 15px; font-weight: bold;">
+💡 "Synonym": Different words = Same idea
+</div>
+
+### 💥 Quick Example: How examiners try to trick you
+
+| Text / Audio uses... | But Correct Answer uses... | English |
+| :--- | :--- | :--- |
+| **gaspiller** | ➔ **dilapider** / **gâcher** | waste |
+| **pénurie** | ➔ **manque** / **disette** | lack |
+| **abroger** | ➔ **abolir** / **supprimer** | abolish / cancel |
+
 <div style="font-size: 20px; font-weight: bold;">
-This global list aims to collect as many synonyms as possible to help you memorize them effectively. Feel free to contribute and update this list.
+This global list aims to collect as many synonyms as possible to help you memorize them effectively.
 </div>
 
 <br>
 
 > # 🔥 Currently collected: 
 > ## 📊 [ 72 Nouns ] • [ 124 Verbs ] • [ 66 Adjectives ]
-> Contribute to expand the list by sharing the tricky traps 🪤 you encountered.
+> Contribute to update this permanent list by sharing the tricky traps 🪤 you encountered.
 
-This project is a permanent global list to collect all the sneaky synonym traps and confusing logic used by TEF examiners. 
-
-Standard textbooks only teach you regular words. But to pass the TEF exam, you need to understand how the examiners try to trick you in the reading and listening sections.
+* Standard textbooks only teach you regular words.<br>
+* To pass the TEF exam, you need to understand the sneaky synonym traps and confusing logic designed by TEF examiners in the reading and listening sections.
 
 # 📥 How to Use (Choose Your Option)
 
 ## Option 1: If you just want to study by yourself
-You do not need to read the code here. You can <mark>**📥 download the 📋 Synonymes.xlsx file directly**</mark> to your phone or computer and use it as your personal study sheet before your exam.
+You do not need to read the code here. You can <mark>**📥 download the 📋 "Synonymes.xlsx" file directly**</mark> or <br>from Google Sheets
+>  https://docs.google.com/spreadsheets/d/1NEdQnEnFzXDOrbpADH2Xr_T4ShmFJDxIp30IdhIymLs/edit?usp=sharing
+
+to your phone or computer and use it for your personal study.
 
 > ℹ️ **Note on File Formats:** Both `Synonymes.csv` and `Synonymes.xlsx` contain the exact same content. `Synonymes.csv` is provided specifically for fast online viewing and searching directly on GitHub without downloading.
 
