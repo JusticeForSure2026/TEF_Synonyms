@@ -26,10 +26,8 @@
 # 📥 How to Use (Choose Your Option)
 
 ## Option 1: If you just want to study by yourself
-You do not need to read the code here. You can <mark>**📥 download the 📋 "Synonymes.xlsx" file directly**</mark> or <br>from Google Sheets
->  https://docs.google.com/spreadsheets/d/1NEdQnEnFzXDOrbpADH2Xr_T4ShmFJDxIp30IdhIymLs/edit?usp=sharing
-
-to your phone or computer and use it for your personal study.
+* 📥 Download the 📋 "Synonymes.xlsx" file directly
+* 📊 View it on Google Sheets: https://docs.google.com/spreadsheets/d/1NEdQnEnFzXDOrbpADH2Xr_T4ShmFJDxIp30IdhIymLs/edit?usp=sharing
 
 > ℹ️ **Note on File Formats:** Both `Synonymes.csv` and `Synonymes.xlsx` contain the exact same content. `Synonymes.csv` is provided specifically for fast online viewing and searching directly on GitHub without downloading.
 
