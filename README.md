@@ -2,9 +2,7 @@
 
 <h2 style="border-bottom: none;">🚨 Have you suffered from tricky, painful synonyms during your exam?</h2>
 
-<div style="font-size: 15px; font-weight: bold;">
-💡 "Synonym": Different words = Same idea
-</div>
+### 💡 "Synonym": Different words = Same idea
 
 ### 💥 Quick Example: How examiners try to trick you
 
@@ -14,9 +12,9 @@
 | **pénurie** | ➔ **manque** / **disette** | lack |
 | **abroger** | ➔ **abolir** / **supprimer** | abolish / cancel |
 
-<div style="font-size: 20px; font-weight: bold;">
+<h3 style="font-weight: bold;">
 This global list aims to collect as many synonyms as possible to help you memorize them effectively.
-</div>
+</h3>
 
 <br>
 
