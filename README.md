@@ -17,7 +17,7 @@
 <br>
 
 > # 🔥 Currently collected: 
-> ## 📊 [ 72 Nouns ] • [ 124 Verbs ] • [ 66 Adjectives ]
+> ## 📊 [ 73 Nouns ] • [ 125 Verbs ] • [ 66 Adjectives ]
 > Contribute to update this permanent list by sharing the tricky traps 🪤 you encountered.
 
 * Standard textbooks only teach you regular words.<br>

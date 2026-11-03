@@ -27,6 +27,7 @@ disappointment,la,déception,,le,désenchantement,,la,désillusion
 dispute,la,dispute,,le,différend,,le,litige,,la,discorde
 dream,le,rêve,,le,songe
 employee,le / la,employé / employée,,le,salarié
+fate,le,destin,,le,sort,,la,destinée,,la,fatalité,,le,hasard
 fire,le,incendie,,la,épidémie
 flexibility,la,flexibilité,,la,souplesse
 fog,le,brouillard,,la,brume
@@ -97,7 +98,7 @@ confront,affronter,,s’insurger,,rivaliser
 condemn,condamner,,dénoncer
 contest,contester,,protester,,s'opposer,,s’indigner,,se rebeller,,se cabrer
 crush,écraser,,broyer
-damage,endommager,,abîmer
+damage,endommager,,abîmer,,vandaliser,,bousiller
 debunk,discréditer,,déculotter
 deceive,tromper,,duper,,berner,,leurrer,,mystifier,,embobiner,,soutirer,,extorquer,,arnaquer,,filouter
 decimate,décimer,,exterminer
@@ -105,7 +106,7 @@ decorate,décorer,,agrémenter
 decrease,diminuer,,régresser,,péricliter
 defend,défendre,,contredire,,réfuter
 delight,ravir,,enchanter
-demolish,démolir,,démanteler
+demolish,démolir,,démanteler,,saccager
 denigrate,dénigrer,,décrier,,vilipender,,stigmatiser,,humilier
 desecrate,profaner,,souiller,,ternir
 desire,désirer,,avoir envie de,,aspirer
@@ -139,16 +140,17 @@ interfere,interférer,,intervenir,,s'immiscer
 lambaste,fulminer,,fustiger,,flageller,,invectiver,,éreinter
 laugh,rire,,rigoler
 lead,diriger,,mener
+limit,limiter,,se borner
 list,lister,,répertorier
-live,vivre,,habiter,,résider
-misrepresent,dénaturer,,déformer,,fausser,,dissimuler,,camoufler,,travestir,,,,,,,,,"dénaturer: fact, déformer: physical shape"
+live,vivre,,habiter,,résider,,,,,,,,,,,,,,,"dénaturer: fact, déformer: physical shape"
+misrepresent,dénaturer,,déformer,,fausser,,dissimuler,,camoufler,,travestir
 mitigate,atténuer,,s’amenuiser
 mix,mélanger,,mêler
 modify,modifier,,amender
 monopolize,monopoliser,,accaparer
 move,bouger,,remuer
-open,ouvrir,,dévoiler,,entrouvrir,,déballer
-obey,obéir,,se conformer,,se plier,,,,,,,,,,,,,,,Extra: s’en tenir à quelque chose
+open,ouvrir,,dévoiler,,entrouvrir,,déballer,,,,,,,,,,,,,Extra: s’en tenir à quelque chose
+obey,obéir,,se conformer,,se plier
 obstruct,obstruer,,obscurcir,,occulter
 obtain,obtenir,,acquérir
 predict,prédire,,anticiper
@@ -174,8 +176,8 @@ send,envoyer,,expédier,,transporter,,acheminer
 show,montrer,,exhiber
 slander,calomnier,,diffamer,,salir
 soothe,apaiser,,calmer,,soulager
-spread,répandre,,propager
-start,commencer,,démarrer,,entamer,,,,,,,,,,,,,,,"entamer: has the meaning of damage (confidence, determination)"
+spread,répandre,,propager,,,,,,,,,,,,,,,,,"entamer: has the meaning of damage (confidence, determination)"
+start,commencer,,démarrer,,entamer
 stipulate,stipuler,,énoncer,,prévoir
 strive,s'efforcer,,persévérer
 struggle,lutter,,peiner,,se débattre,,se démener
@@ -190,8 +192,8 @@ tremble,trembler,,frémir
 try,essayer,,tenter,,tâcher
 rave,divaguer,,délirer
 violate,violer,,déroger,,enfreindre
-waste,gaspiller,,dilapider,,dissiper,,gâcher
-weaken,affaiblir,,saper,,éroder,,compromettre,,,,,,,,,,,,,compromettre: not the same meaning of compromise in English
+waste,gaspiller,,dilapider,,dissiper,,gâcher,,,,,,,,,,,,,compromettre: not the same meaning of compromise in English
+weaken,affaiblir,,saper,,éroder,,compromettre
 work,travailler,,bosser
 worry,s'inquiéter,,redouter
 worsen,empirer,,aggraver,,dégrader,,dégénérer,,altérer,,détériorer,,suppurer,,s’envenimer,,frelater
@@ -253,7 +255,7 @@ stupid,stupide,,bête
 strong,fort / forte,,puissant / puissante
 sustainable,durable,,pérenne,,stable
 substantial,substantiel / substantielle,,conséquent / conséquente
-timeless,intemporel / intemporelle,,indémodable,,universel / universelle
+timeless,intemporel / intemporelle,,indémodable,,universel / universelle,,éternel / éternelle
 tired,fatigué / fatiguée,,épuisé / épuisée,,exténué / exténuée
 tough,dur / dure,,rigide
 transparent,transparent / transparente,,diaphane
