@@ -3,15 +3,26 @@ abolition,la,abolition,,la,abrogation,,la,suppression,,la,révocation
 agreement,le,accord,,le,consensus,,la,entente,,la,unanimité,,la,concorde
 anger,la,colère,,le,courroux,,la,exaspération
 applicant,le / la,candidat / candidate,,le / la,postulant / postulante,,le / la,demandeur / demandeuse
+argument,le,argument,,la,dispute,,le,débat,,la,querelle
 arrogance,la,arrogance,,la,hauteur,,la,suffisance,,la,morgue,,le,dédain
 avantage,le,avantage,,le,bénéfice
+bacon,le,bacon,,le,lard
+bandit,le,bandit,,le,brigand
 bankruptcy,la,faillite,,la,déconfiture,,la,banqueroute
+barrel,le,baril,,le,tonneau,,,,,,,,,,"baril: for fuel, tonneau: for wine"
+beam,le,faisceau,,la,poutre
 beginning,le,début,,le,commencement
 boldness,la,audace,,la,témérité,,le,toupet,,la,hardiesse
+book,le,livre,,le,bouquin
 breath,la,haleine,,le,souffle
+building,le,bâtiment,,le,édifice
 disadvantage,le,inconvénient,,la,faille,,la,lacune,,le,revers
 distribution,la,distribution,,la,répartition
+intersection,la,intersection,,le,carrefour
+cave,la,grotte,,la,caverne
 chaos,le,chaos,,le,désarroi,,le,remue-ménage,,le,capharnaüm
+charm,le,charme,,le,appât
+child,le / la,enfant,,le / la,gamin / gamine
 clemency,la,clémence,,la,indulgence,,la,magnanimité
 collection,la,collection,,le,recueil
 color,la,couleur,,la,teinte
@@ -22,81 +33,110 @@ criticism,la,critique,,le,grief,,le,reproche,,le,opprobre
 damage,les,dégâts,,les,dommages
 decline,le,déclin,,la,décadence,,la,dégringolade,,le,crépuscule,,le,périclissement
 decrease,la,diminution,,la,baisse,,le,recul
+dedication,le,dévouement,,la,consécration
 dilemma,le,dilemme,,le,cas de conscience
 disappointment,la,déception,,le,désenchantement,,la,désillusion
 dispute,la,dispute,,le,différend,,le,litige,,la,discorde
+distress,la,détresse,,la,angoisse
 dream,le,rêve,,le,songe
 employee,le / la,employé / employée,,le,salarié
 fate,le,destin,,le,sort,,la,destinée,,la,fatalité,,le,hasard
+ferry,le,ferry
 fire,le,incendie,,la,épidémie
+flag,le,drapeau,,le,pavillon
 flexibility,la,flexibilité,,la,souplesse
 fog,le,brouillard,,la,brume
 food,la,nourriture,,la,alimentation,,les,vivres,,les,denrées
+fragment,le,fragment,,le,débris
 goal,le,but,,la,intention
 grief,le,chagrin,,la,douleur
 growth,la,croissance,,le,essor
 harm,le,préjudice,,le,tort,,le,méfait,,la,nuisance
+heat,la,chaleur,,la,ardeur
 hesitation,la,hésitation,,la,irrésolution,,la,tergiversation
+hope,le,espoir,,la,espérance
 hypocrisy,la,hypocisie,,la,duplicité,,la,tartuferie
 improvement,la,amélioration,,la,optimisation,,le,perfectionnement
+joy,la,joie,,la,gaieté
 judgment,le,jugement,,le,verdict,,la,sentence
 luxury,le,luxe,,la,somptuosité,,la,magnificence
-mistake,la,erreur,,la,faute
+mistake,la,erreur,,la,faute,,le,tort,,la,gaffe,,le,démérite
+mystery,le,mystère,,la,énigme
+neck,le,cou,,la,nuque
 occupation,la,occupation,,la,profession,,le,métier
 obstacle,le,obstacle,,le,frein,,la,entrave,,le,goulot d'étranglement
+offense,la,infraction,,la,violation,,la,brèche,,le,délit
 origin,la,origine,,la,genèse,,la,provenance
 parking,le,parking,,le,stationnement
+path,le,chemin,,le,sentier,,la,route
+police officer,le / la,policier / policière,,le,gendarme,,le,flic
 predicament,la,impasse,,le,pétrin,,le,cul-de-sac,,le,bourbier,,la,ornière
 prediction,la,prédiction,,le,pronostic,,les,prévisions
+premonition,la,prémonition,,le,pressentiment
 pride,la,fierté,,le,orgueil
 prodigality,la,prodigalité,,le,gaspillage,,la,dilapidation
 proprietary,la,bienséance,,le,décorum,,les,convenance
+punishment,la,punition,,le,châtiment
 reduction,la,réduction,,le,rabais,,la,remise,,la,démarque,,le,geste commercial
 reprimand,la,réprimande,,le,blâme,,la,semonce
+resentment,le,ressentiment,,la,rancune
 rivalry,la,rivalité,,la,compétition,,la,concurrence
 salary,le,salaire,,la,rémunération,,les,émoluments
+safety,la,sécurité,,la,sûreté
 scandal,le,scandale,,le,tollé,,le,remous
 scarcity,la,pénurie,,le,manque,,la,disette,,la,rareté,,le,tarissement
 scorn,le,mépris,,le,dédain
+shoe,la,chaussure,,le,soulier
 sign,la,affiche,,la,enseigne
+size,la,taille,,la,dimension,,la,grandeur
 skill,la,compétence,,la,dextérité,,la,maestria,,la,habileté,,la,adresse
 slope,la,pente,,le,raidillon
 stinginess,la,avarice,,la,parsimonie,,la,lésine,,la,ladrerie
 storm,la,tempête,,le,orage
 stubbornness,la,obstination,,la,opiniâtreté,,le,acharnement,,la,ténacité
+support,le,soutien,,le,appui
 threat,la,menace,,le,péril,,le,danger
+trick,la,astuce,,le,artifice
 trip,le,voyage,,la,excursion,,le,périple,,le,parcours
+university,la,université,,la,fac
+wall,le,mur,,la,muraille,,la,paroi
 wave,la,vague,,la,onde
 wealth,la,richesse,,la,fortune,,la,opulence
 wish,le,souhait,,le,voeu
-work,le,travail,,le,emploi,,le,boulot
+work,le,travail,,le,emploi,,le,boulot,,la,besogne,,le,ouvrage,ouvrage: creation / artwork
 worry,la,inquiétude,,le,tourment,,la,anxiété,,la,angoisse
 
 abandon,abandonner,,renoncer
 abolish,abolir,,abroger
 abort,avorter,,se débarrasser
-admit,admettre,,reconnaître
+admit,admettre,,reconnaître,,confesser
 appear,apparaître,,paraître,,survenir,,surgir,,figurer
+argue,argumenter,,se disputer,,se quereller
+arrange,arranger,,organiser,,disposer
 ask,demander,,solliciter
 assert,affirmer,,prétendre
 assume,supposer,,spéculer
 astonish,étonner,,surprendre,,impressionner,,méduser,,choquer,,subjuguer
 attract,attirer,,captiver
 avoid,éviter,,esquiver,,éluder,,circonvenir
+beat,battre,,rosser
 blame,blâmer,,reprocher
-block,bloquer,,obstruer
+block,bloquer,,obstruer,,barrer
+bother,déranger,,gêner,,embêter,,importuner,,tracasser,,chagriner,,,,,,,,,importuner: very formal
 break,casser,,briser
 bring,apporter,,amener
 build,construire,,bâtir,,édifier
 cause,causer,,occasionner,,engendrer,,déclencher,,entraîner
-chop,couper,,trancher,,hacher
+chop,couper,,trancher,,hacher,,émincer,,découper,,scier
 claim,réclamer,,revendiquer
 collect,collecter,,recueillir,,rassembler
-comfort,consoler,,apaiser
+comfort,réconforter,,consoler,,apaiser
 compromise,faire des compromis,,transiger,,concéder,,céder
 confront,affronter,,s’insurger,,rivaliser
 condemn,condamner,,dénoncer
+conquer,conquérir,,vaincre,,triompher
 contest,contester,,protester,,s'opposer,,s’indigner,,se rebeller,,se cabrer
+contain,contenir,,renfermer
 crush,écraser,,broyer
 damage,endommager,,abîmer,,vandaliser,,bousiller
 debunk,discréditer,,déculotter
@@ -126,15 +166,23 @@ estimate,estimer,,évaluer
 evict,expulser,,évincer,,écarter,,exclure,,bannir,,destituer
 exonerate,disculper,,innocenter,,blanchir,,exonérer,,,,,,,,,,,,,exonérer: exonérer de toute responsabilité
 fear,craindre,,redouter
-finish,finir,,achever
+feel,se sentir,,ressentir,,percevoir
+finish,finir,,terminer,,achever,,clore
 flatter,flatter,,louanger,,aduler
 force,forcer,,obliger,,contraindre,,imposer,,opprimer
 forbid,interdire,,défendre,,proscrire
+give up,abandonner,,renoncer,,céder,,plaquer,,abdiquer
+glimpse,entrevoir,,apercevoir
+grow,grandir,,croître,,grossir,,cultiver,,,,,,,,,,,,,cultiver: mainly for plants
+guarantee,garantir,,gager
 harm,nuire,,léser
-handle,gérer,,se débrouiller
+handle,gérer,,se débrouiller,,manier
+hear,entendre,,ouïr
+hide,cacher,,dissimuler
 incite,inciter,,susciter,,indigner,,fomenter
 increase,augmenter,,accroître,,renforcer
 individualize,singulariser,,se démarquer
+inform,informer,,notifier,,aviser,,renseigner
 insinuate,insinuer,,sous-entendre
 interfere,interférer,,intervenir,,s'immiscer
 lambaste,fulminer,,fustiger,,flageller,,invectiver,,éreinter
@@ -142,19 +190,24 @@ laugh,rire,,rigoler
 lead,diriger,,mener
 limit,limiter,,se borner
 list,lister,,répertorier
-live,vivre,,habiter,,résider,,,,,,,,,,,,,,,"dénaturer: fact, déformer: physical shape"
-misrepresent,dénaturer,,déformer,,fausser,,dissimuler,,camoufler,,travestir
+live,vivre,,habiter,,résider
+mention,mentionner,,évoquer,,,,,,,,,,,,,,,,,"dénaturer: fact, déformer: physical shape"
+misrepresent,dénaturer,,déformer,,fausser,,dissimuler,,camoufler,,travestir,,,,,,,,,"dénaturer: fact, déformer: physical shape"
 mitigate,atténuer,,s’amenuiser
 mix,mélanger,,mêler
 modify,modifier,,amender
+monitor,surveiller,,observer,,guetter,,épier
 monopolize,monopoliser,,accaparer
 move,bouger,,remuer
-open,ouvrir,,dévoiler,,entrouvrir,,déballer,,,,,,,,,,,,,Extra: s’en tenir à quelque chose
-obey,obéir,,se conformer,,se plier
+open,ouvrir,,dévoiler,,entrouvrir,,déballer
+obey,obéir,,se conformer,,se plier,,,,,,,,,,,,,,,Extra: s’en tenir à quelque chose
 obstruct,obstruer,,obscurcir,,occulter
 obtain,obtenir,,acquérir
+order,commander,,ordonner
+panic,paniquer,,s'affoler
 predict,prédire,,anticiper
-prevent,empêcher,,arrêter,,entraver,,brider
+prevent,empêcher,,arrêter,,entraver,,brider,,contrarier,,contrecarrer
+promise,promettre,,entreprendre
 prove,prouver,,confirmer
 punish,punir,,pénaliser
 reduce,réduire,,diminuer
@@ -171,16 +224,24 @@ restrain,retenir,,s'abstenir,,restreindre,,réprimer,,inhiber,,enrayer,,juguler
 satirize,satiriser,,ridiculiser,,narguer,,railler,,se gausser
 satisfy,satisfaire,,assouvir
 scold,gronder,,réprimander,,tancer,,admonester
+scratch,se gratter,,griffer
+sculpt,sculpter,,tailler,,ciseler
 see,voir,,apercevoir
 send,envoyer,,expédier,,transporter,,acheminer
-show,montrer,,exhiber
+shake,secouer,,agiter,,trembler,,ébranler,,,,,,,,,,,,,ébranler: emotionally
+sharpen,aiguiser,,affûter
+shine,briller,,luire
+show,montrer,,exhiber,,afficher
 slander,calomnier,,diffamer,,salir
+smash,fracasser,,défoncer
 soothe,apaiser,,calmer,,soulager
-spread,répandre,,propager,,,,,,,,,,,,,,,,,"entamer: has the meaning of damage (confidence, determination)"
-start,commencer,,démarrer,,entamer
+spread,répandre,,propager
+start,commencer,,démarrer,,entamer,,,,,,,,,,,,,,,"entamer: has the meaning of damage (confidence, determination)"
 stipulate,stipuler,,énoncer,,prévoir
 strive,s'efforcer,,persévérer
 struggle,lutter,,peiner,,se débattre,,se démener
+stumble,trébucher,,buter,,butter
+stun,étourdir,,assommer
 subordinate,subordonner,,conditionner,,assujettir
 suffer,souffrir,,subir,,affliger
 suggest,suggérer,,conseiller,,recommander,,cautionner,,préconiser,,prôner
@@ -192,38 +253,53 @@ tremble,trembler,,frémir
 try,essayer,,tenter,,tâcher
 rave,divaguer,,délirer
 violate,violer,,déroger,,enfreindre
-waste,gaspiller,,dilapider,,dissiper,,gâcher,,,,,,,,,,,,,compromettre: not the same meaning of compromise in English
-weaken,affaiblir,,saper,,éroder,,compromettre
+waste,gaspiller,,dilapider,,dissiper,,gâcher
+weaken,affaiblir,,saper,,éroder,,compromettre,,,,,,,,,,,,,compromettre: not the same meaning of compromise in English
 work,travailler,,bosser
 worry,s'inquiéter,,redouter
 worsen,empirer,,aggraver,,dégrader,,dégénérer,,altérer,,détériorer,,suppurer,,s’envenimer,,frelater
+yell,hurler,,gueuler
+yield,céder,,succomber
 
+alcoholic,alcoolique,,ivrogne
+annoyed,ennuyé / ennuyée,,agacé / agacée
 annoying,ennuyeux / ennuyeuse,,embêtant / embêtante
+appropriate,approprié / appropriée,,convenable,,indiqué / indiquée
 atrocious,atroce,,exécrable
 bad,mauvais / mauvaise,,médiocre,,désastreux / désastreuse,,lamentable,,inférieur / inférieure
 clean,propre,,net / nette
 competent,compétent / compétente,,habile
+crazy,fou / folle,,dingue
 bold,audacieux / audacieuse,,hardi / hardie
 boring,ennuyeux / ennuyeuse,,fastidieux / fastidieuse
 brilliant,brillant / brillante,,éclatant / éclatante
 calm,calme,,paisible
 cold,froid / froide,,glacial / glaciale
 complex,complexe,,compliqué / compliquée,,élaboré / élaborée
+concave,concave,,creusé / creusée
+dangerous,dangereux / dangereuse,,risqué / risquée,,périlleux / périlleuse,,hasardeux / hasardeuse,,précaire
 dark,sombre,,obscur / obscure
+deceased,décédé / décédée,,défunt / défunte
 different,différent / différente,,divers / diverse,,varié / variée
 dirty,sale,,sordide,,crasseux / crasseuse
-disgusting,dégoûtant / dégoûtante,,odieux / odieuse
+disgusting,dégoûtant / dégoûtante,,répugnant / répugnante,,odieux / odieuse,,,,,,,,,,,"odieux / odieuse: used for attitude, personality, and behavior, not for food / things"
+drunk,ivre,,saoul / saoule
 elegant,élégant / élégante,,raffiné / raffinée
 eloquent,éloquent / éloquente,,expressif / expressive
+embarrassed,embarrassé / embarrassée,,gêné / gênée
 ephemeral,éphémère,,fugace,,temporaire
 essential,essentiel / essentielle,,crucial / cruciale,,indispensable
+exciting,passionnant / passionnante,,excitant / excitante
+excluded,exclu / exclue,,écarté / écartée
 expensive,cher / chère,,coûteux / coûteuse
-fantastic,fantastique,,incroyable,,merveilleux / merveilleuse,,étonnant / étonnante,,extraordinaire,,rocambolesque
+famous,célèbre,,prestigieux / prestigieuse,,éminent / éminente
+fantastic,fantastique,,incroyable,,extraordinaire,,merveilleux / merveilleuse,,remarquable,,étonnant / étonnante,,rocambolesque,,insigne,"rocambolesque: dramatic and bizarre, insigne: very rare literary term"
 far,loin,,éloigné / éloignée,,lointain / lointaine
 fast,rapide,,véloce
 frequent,fréquent / fréquente,,courant / courante,,régulier / régulière
 frightful,affreux / affreuse,,épouvantable
 generous,généreux / généreuse,,bienveillant / bienveillante
+greedy,cupide,,avide
 harmful,nocif / nocive,,nuisible,,néfaste,,préjudiciable
 happy,heureux / heureuse,,content / contente,,ravi / ravie,,joyeux / joyeuse,,enchanté / enchantée,,comblé / comblée
 heavy,lourd / lourde,,pesant / pesante
@@ -234,9 +310,11 @@ innovative,innovant / innovante,,novateur / novatrice,,créatif / créative
 interesting,intéressant / intéressante,,fascinant / fascinante,,captivant / captivante,,passionnant / passionnante
 large,grand / grande,,immense,,colossal / colossale
 light,léger / légère,,faible
+lost,perdu / perdue,,égaré / égarée,,,,,,,,,,,,,égaré / égarée: not for win / lose
 many,nombreux / nombreuse,,maint / mainte
 masterful,magistral / magistrale,,remarquable
 meticulous,méticuleux / méticuleuse,,minutieux / minutieuse
+miserable,misérable,,pathétique,,déplorable,,lamentable,,tragique
 old,vieux / vieille,,ancien / ancienne
 perceptive,perspicace,,saisissant / saisissante,,clairvoyant / clairvoyante
 persevering,persévérant / persévérante,,tenace
@@ -244,23 +322,28 @@ preliminary,préliminaire,,préalable
 reasonable,raisonnable,,modéré / modérée,,mesuré / mesurée
 relevant,pertinent / pertinente,,approprié / appropriée,,judicieux / judicieuse
 restricting,restreindre,,contraignant / contraignante
-ridiculous,ridicule,,abracadabrant / abracadabrante
-sharp,tranchant / tranchante,,vif / vive,,,,,,,,,"tranchant / tranchante (physically), vif / vive (mentally)"
+ridiculous,ridicule,,absurde,,insensé / insensée,,risible,,abracadabrant / abracadabrante
+sharp,tranchant / tranchante,,aigu / aiguë,,pointu / pointue,,vif / vive,,,,,,,,,"tranchant / tranchante (physically), aigu / aiguë (pain), vif / vive (mentally)"
 similar,similaire,,pareil / pareille,,semblable
 small,petit / petite,,minuscule,,infime
 soft,doux / douce,,moelleux / moelleuse
 sticky,gluant / gluante,,collant / collante,,gommeux / gommeuse,,visqueux / visqueuse
+strange,bizarre,,grotesque,,saugrenu / saugrenue,,excentrique,,loufoque
 stubborn,têtu / têtue,,obstiné / obstinée
-stupid,stupide,,bête
+stupid,stupide,,bête,,sot / sotte,,insensé / insensée
 strong,fort / forte,,puissant / puissante
 sustainable,durable,,pérenne,,stable
 substantial,substantiel / substantielle,,conséquent / conséquente
-timeless,intemporel / intemporelle,,indémodable,,universel / universelle,,éternel / éternelle
+temporary,temporaire,,fugace,,éphémère,,,,,,,,,,,"intemporel, indémodable: mainly for style, art, fashion etc."
+timeless,intemporel / intemporelle,,indémodable,,universel / universelle,,éternel / éternelle,,,,,,,,,"intemporel, indémodable: mainly for style, art, fashion etc."
 tired,fatigué / fatiguée,,épuisé / épuisée,,exténué / exténuée
 tough,dur / dure,,rigide
 transparent,transparent / transparente,,diaphane
+upset,bouleversé / bouleversée,,contrarié / contrariée
+unacceptable,inacceptable,,insupportable
 unexpected,inattendu / inattendue,,imprévu / imprévue
 urgent,urgent / urgente,,pressant / pressante,,impératif / imperative,,imminent / imminente
 useless,inutile,,inefficace,,futile,,dérisoire
 visible,visible,,apparent / apparente,,manifeste
+weak,faible,,débile
 wide,large,,vaste

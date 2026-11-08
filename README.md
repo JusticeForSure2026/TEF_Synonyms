@@ -17,7 +17,7 @@
 <br>
 
 > # 🔥 Currently collected: 
-> ## 📊 [ 73 Nouns ] • [ 125 Verbs ] • [ 66 Adjectives ]
+> ## 📊 [ 107 Nouns ] • [ 154 Verbs ] • [ 86 Adjectives ]
 > Contribute to update this permanent list by sharing the tricky traps 🪤 you encountered.
 
 * Standard textbooks only teach you regular words.<br>
@@ -27,7 +27,7 @@
 
 ## Option 1: If you just want to study by yourself
 * 📥 Download the 📋 "Synonymes.xlsx" file directly
-* 📊 View it on Google Sheets: https://docs.google.com/spreadsheets/d/1NEdQnEnFzXDOrbpADH2Xr_T4ShmFJDxIp30IdhIymLs/edit?usp=sharing
+* 🔍 View it on Google Sheets: https://docs.google.com/spreadsheets/d/1NEdQnEnFzXDOrbpADH2Xr_T4ShmFJDxIp30IdhIymLs/edit?usp=sharing
 
 > ℹ️ **Note on File Formats:** Both `Synonymes.csv` and `Synonymes.xlsx` contain the exact same content. `Synonymes.csv` is provided specifically for fast online viewing and searching directly on GitHub without downloading.
 
