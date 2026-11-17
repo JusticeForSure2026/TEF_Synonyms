@@ -55,3 +55,6 @@ Follow this simple image guide to report a new synonym trap:
 ![Tutorial 3](tutorial_images/tutorial3.png)
 
 4. **Step 4:** All done.
+
+## 🔊 Text-to-Speech
+The result can be used in TTS applications like: https://github.com/JusticeForSure2026/Language_Meaning_TTS
