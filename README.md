@@ -29,8 +29,6 @@
 * 📥 Download the 📋 "Synonymes.xlsx" file directly
 * 🔍 View it on Google Sheets: https://docs.google.com/spreadsheets/d/1NEdQnEnFzXDOrbpADH2Xr_T4ShmFJDxIp30IdhIymLs/edit?usp=sharing
 
-> ℹ️ **Note on File Formats:** Both `Synonymes.csv` and `Synonymes.xlsx` contain the exact same content. `Synonymes.csv` is provided specifically for fast online viewing and searching directly on GitHub without downloading.
-
 ## Option 2: If you want to add new words to the global list
 When you finish your TEF exam and encounter an unknown, painful word or a ridiculous trap, feel free to contribute to the community.
 
